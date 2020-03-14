@@ -2,13 +2,13 @@ title: Tyler Richard, At A Distance
 description: > # this means to ignore newlines until "baseurl:"
   I'm a communications professional for non-profits. Queer. Nerdy. And an Extrovert Currently "Distancing"
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://terrapax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Tyler Richard # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: tyler_richard.jpg # add your photo
 about-author: I'm a communications professional for non-profits. Queer. Nerdy. And an Extrovert Currently "Distancing" # add description
 social-twitter: tylererichard # add your Twitter handle
 social-facebook: terrapax # add your Facebook handle
