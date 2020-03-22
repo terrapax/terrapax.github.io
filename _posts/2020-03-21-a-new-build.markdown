@@ -3,7 +3,7 @@ layout: post
 title: A New Build
 date: 2020-03-21 21:32:20
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 2020_03_20_subway.jpg # Add image post (optional)
+img: 2020_03_21_legos.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags:
 ---
