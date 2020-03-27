@@ -8,16 +8,20 @@ fig-caption: # Add figcaption (optional)
 tags:
 ---
 
-One of the more joyful parts of so many people joining remote meetings is being able to see children of my colleagues make guest appearances on calls.
+Much of my day today I felt like I was in pretty large groups.
 
-Now — before I go any further — I want to make something very clear. Parents are amazing. There is absolutely nothing wrong with not having children. But for those who are parenting right now, while also having to work full-time jobs, you are just amazing.
+I started with my daily team meeting which is like 30 people.
 
-It's been nice to have the little interruptions of children in meetings.  It's been a reminder that there's a world of wonder and delight that still exists. It's been a reminder that some of the problems that I'm stressing about a really not that big. Some of the problems the world is facing right now are enormous. They are life and death on a massive scale.
+Then there was a nearly 500 person call.
 
-But there are also little every day problems that, in comparison, don't seem that important anymore.
+After that, a different team meeting with 30ish people.
 
-It's causing me to wonder — what have I been holding onto the past few months that I didn't need to? That the world would have been fine, maybe even better, if I would have spent a bit more time focusing on the things that bring some joy to life?
+And then a group of friends in three time zones — along with a handful of dogs and children.
 
-My partner and I went on a nice long walk when we were done with work tonight. We wanted to make some space between our work day and our evening. On the way home from the park, the neighborhood movie theatre had a sign which reads "Be Excellent to Each Other."
+So I spent my day with people (not forgetting my amazing partner). Even if we were not speaking in person, I felt very connected today from start to finish. This hasn’t happened every day of the world from home life. But it did today and for that I am grateful.
 
-I hope we all make sure this movie — being excellent to one another — never stops playing.
+It was also a reminder of the value we are all looking for in our lives right now. Worth. Meaning. Purpose.
+
+Those don’t go away just because survival feels like the imperative.
+
+Balancing survival of self, survival of those close to us and ensuring our life has meaning. Today I felt like I had that. And for that, I am incredibly thankful.
