@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Smile of a Child
-date: 2020-03-24 21:32:20
+title: A Day with People
+date: 2020-03-25 21:32:20
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 2020_03_24_sign.jpg # Add image post (optional)
+img: 2020_03_25_friends.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags:
 ---
