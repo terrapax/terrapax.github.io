@@ -23,3 +23,5 @@ _Golden Girls_ is a show I've been watching on my own. In the past few weeks, I'
 And sometimes, they save the world. Or have cheesecake. Maybe both.
 
 I don't know what tomorrow will bring so I definitely won't speculate on what the next two years in NYC will bring. But I know that no matter what I have some amazing friends and family — from coast to coast — who will be by my side.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2Erl1wJQFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
