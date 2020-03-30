@@ -14,6 +14,8 @@ tags:
 
 Yesterday I watched the final episode of the _Golden Girls._ I started my epic rewatch a little over a year ago when I had a viral infection that kept me more or less in bed for a week. I know this is a big gay cliche, but I find the friendship of those on the show amazingly endearing.
 
+[![YouTube Embed Image for Golden Girls Final Scene](http://img.youtube.com/vi/Q2Erl1wJQFI/0.jpg)](http://www.youtube.com/watch?v=Q2Erl1wJQFI)
+
 It hit me extra hard because of the line above. This weekend is two years of Brian and I being in New York. Two years of new adventures comes at a time when I have been leaning on my friends and family back home more than at any other time during my life in NYC. I've talked with my sister and mom more. I've messaged in our family chat more. I've had video chats with a group of friends.
 
 _Golden Girls_ is a show I've been watching on my own. In the past few weeks, I've also been introducing my partner to _Buffy: The Vampire Slayer_. If _Star Trek_ is the basis for how I think about the world, _Buffy_ is the basis for how I feel about the world. It was a show with characters about my age when it was on. In some interesting ways — I think I am drawn to all of these shows for a similar reason. There's a group of people who have been drawn together. Some by blood, mostly by choice, and they support each other, challenge each other, hurt each other and forgive each other.
